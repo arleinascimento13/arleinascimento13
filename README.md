@@ -1,14 +1,21 @@
-<h1 align="center">Olá, sou Arlei Nascimento Web Developer </></h1>
-<h3 align="center">apaixonado por tecnologia e ux!</h3>
+
+<h1 align="center">Olá, sou Arlei Nascimento </> </h1>
+<h3 align="center"> Web Developer e apaixonado por tecnologia!</h3>
+<br>
+
+<div align="left">
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=arleinascimento13"</p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arleinascimento13&show_icons=true&locale=en" alt="arleinascimento13" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlei.nascimento13&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" /></p>
 
+<h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
 <a href="https://instagram.com/@arlei.nascimento17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arlei.nascimento17" height="30" width="40" /></a>
 <a href="https://discord.gg/halsey_#8458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="halsey_#8458" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
+<hr>
