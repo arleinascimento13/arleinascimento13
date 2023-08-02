@@ -3,8 +3,8 @@
 <h3 align="center"> Web Developer e apaixonado por tecnologia!</h3>
 <br>
 
-<div align="left">
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=arleinascimento13"</p>
+//<div align="left">
+//<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=arleinascimento13"</p>
 
 
 
