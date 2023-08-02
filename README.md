@@ -2,11 +2,8 @@
 <h1 align="center">Olá, sou Arlei Nascimento </> </h1>
 <h3 align="center"> Web Developer e apaixonado por tecnologia!</h3>
 <br>
-
-//<div align="left">
-//<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=arleinascimento13"</p>
-
-
+<blockquote <div align="left"> </blockquote>
+<blockquote <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=arleinascimento13"</p> </blockquote>
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
